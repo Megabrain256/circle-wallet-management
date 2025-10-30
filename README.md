@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Circle Wallet Management
 
 This project demonstrates integration with Circle's blockchain wallet management infrastructure, utilizing Circle's SDK packages for handling different aspects of wallet management and smart contract interactions.
